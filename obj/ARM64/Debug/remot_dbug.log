@@ -1,0 +1,9 @@
+﻿  正在驗證來源
+  正在從遠端將來源複製到 '172.25.11.83'
+  正在驗證架構
+  正在驗證架構
+  即將開始遠端建置
+  正在編譯來源:
+  Source.cpp
+  正在連結物件
+  remot_dbug.vcxproj -> D:\c_practice\remot_dbug\bin\ARM64\Debug\remot_dbug.out

@@ -1,0 +1,1 @@
+g++ -o "/home/linaro/projects/remot_dbug/bin/ARM64/Debug/remot_dbug.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/linaro/projects/remot_dbug/obj/ARM64/Debug/Source.o
